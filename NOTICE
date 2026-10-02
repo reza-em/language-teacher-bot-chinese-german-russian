@@ -1,0 +1,8 @@
+Third-party data attribution
+- CC-CEDICT (mdbg.net) — CC BY-SA 4.0
+- Tatoeba sentences — CC BY 2.0 FR (https://tatoeba.org)
+- complete-hsk-vocabulary (drkameleon) — MIT
+- Make Me a Hanzi — see its repository licenses (Arphic PL / LGPL)
+- HanDeDict — CC BY-SA 2.0 DE
+- Vazirmatn font — SIL OFL 1.1 (download separately into assets/)
+Derived files in data/ (hsk13.json, sentences.json) inherit the licenses above. Translations (Persian) and German/Russian vocabulary were AI-assisted and not reviewed by native speakers.

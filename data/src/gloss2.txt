@@ -1,0 +1,147 @@
+就|then; right away; just|پس، همان موقع؛ فقط
+要|to want; will; must|خواستن؛ قرار است؛ باید
+也|also, too|هم، نیز
+到|to arrive; to|رسیدن؛ تا
+还|still; also|هنوز؛ باز هم
+着|(continuous aspect particle)|نشانهٔ ادامه‌دار بودن حالت
+给|to give; for|دادن؛ برای
+让|to let; to make|اجازه دادن؛ وادار کردن
+为|for; because of|برای
+可以|may, can|می‌شود، مجاز بودن
+吧|(suggestion particle)|حرف پیشنهاد/تأیید («بیا…، دیگه»)
+得|(complement particle); to get|حرف پیوند فعل و توصیف؛ به دست آوردن
+从|from|از
+真|really; true|واقعاً؛ درست
+两|two (with measure words)|دو (قبل از کلمهٔ شمارشی)
+出|to go out|بیرون رفتن
+已经|already|قبلاً، تا حالا
+最|most, -est|ـترین (بیشترین)
+再|again|دوباره
+因为|because|چون، به‌خاطر
+次|time (occurrence)|بار (دفعه)
+知道|to know|دانستن
+走|to walk; to go|راه رفتن؛ رفتن
+问题|question; problem|سؤال؛ مشکل
+它|it|آن (غیرانسان)
+但是|but|اما، ولی
+可能|maybe; possible|شاید؛ ممکن
+时间|time|زمان، وقت
+开始|to begin|شروع کردن
+新|new|جدید
+找|to look for|جستن، پیدا کردن
+快|fast; soon|سریع؛ به‌زودی
+比|than; to compare|از (در مقایسه)؛ مقایسه کردن
+所以|so, therefore|بنابراین
+觉得|to feel; to think|احساس کردن؛ فکر کردن
+向|towards|به سمت
+一起|together|با هم
+希望|to hope|امیدوار بودن، آرزو
+大家|everyone|همه (جمع حاضر)
+非常|very, extremely|بسیار
+孩子|child|بچه
+别|don't; other|نکن!؛ دیگر
+公司|company|شرکت
+第一|first|اول
+长|long|بلند، دراز
+问|to ask|پرسیدن
+告诉|to tell|گفتن به کسی، خبر دادن
+事情|matter, thing|کار، موضوع
+号|number; day of month|شماره؛ روزِ ماه
+高|tall; high|بلند، بالا
+件|(measure word: clothes, matters)|کلمهٔ شمارشی لباس/کار
+张|(measure word: flat things)|کلمهٔ شمارشی چیزهای تخت
+准备|to prepare|آماده کردن
+进|to enter|وارد شدن
+每|every, each|هر
+您|you (polite)|شما (محترمانه)
+送|to give (gift); to send off|هدیه دادن؛ بدرقه کردن
+笑|to laugh; to smile|خندیدن
+女人|woman|زن
+小时|hour|ساعت (مدت)
+完|to finish|تمام شدن
+路|road|جاده، راه
+玩|to play|بازی کردن
+男人|man|مرد
+正在|(in the middle of doing)|در حال (انجام)
+门|door|در
+穿|to wear|پوشیدن
+外|outside|بیرون
+帮助|to help|کمک کردن
+晚上|evening, night|شب، عصر
+错|wrong|غلط
+卖|to sell|فروختن
+远|far|دور
+快乐|happy|شاد
+懂|to understand|فهمیدن
+药|medicine|دارو
+黑|black|سیاه
+身体|body|بدن
+元|yuan (currency)|یوآن
+介绍|to introduce|معرفی کردن
+红|red|قرمز
+欢迎|welcome|خوش‌آمد
+眼睛|eye|چشم
+近|near|نزدیک
+手机|mobile phone|گوشی همراه
+忙|busy|مشغول
+离|away from|فاصله از
+白|white|سفید
+去年|last year|پارسال
+票|ticket|بلیت
+意思|meaning|معنی
+早上|morning|صبح
+回答|to answer|پاسخ دادن
+运动|sports; exercise|ورزش
+妻子|wife|همسر (زن)
+鱼|fish|ماهی
+累|tired|خسته
+休息|to rest|استراحت کردن
+洗|to wash|شستن
+船|boat|قایق، کشتی
+房间|room|اتاق
+丈夫|husband|همسر (مرد)
+上班|to go to work|سر کار رفتن
+生日|birthday|تولد
+姐姐|older sister|خواهر بزرگ‌تر
+课|class, lesson|درس، کلاس
+哥哥|older brother|برادر بزرگ‌تر
+咖啡|coffee|قهوه
+考试|exam|امتحان
+千|thousand|هزار
+慢|slow|آهسته
+旁边|beside|کنار
+颜色|color|رنگ
+雪|snow|برف
+妹妹|younger sister|خواهر کوچک‌تر
+报纸|newspaper|روزنامه
+贵|expensive|گران
+机场|airport|فرودگاه
+踢|to kick|لگد زدن (فوتبال بازی کردن)
+弟弟|younger brother|برادر کوچک‌تر
+百|hundred|صد
+好吃|delicious|خوشمزه
+旅游|to travel|سفر کردن، گردشگری
+起床|to get up|از خواب بلند شدن
+题|question (exam)|سؤال (امتحانی)
+便宜|cheap|ارزان
+唱歌|to sing|آواز خواندن
+右边|right side|سمت راست
+牛奶|milk|شیر
+自行车|bicycle|دوچرخه
+鸡蛋|egg|تخم‌مرغ
+姓|surname|نام خانوادگی
+游泳|to swim|شنا کردن
+跳舞|to dance|رقصیدن
+阴|overcast|ابری
+生病|to be sick|بیمار شدن
+左边|left side|سمت چپ
+公斤|kilogram|کیلوگرم
+教室|classroom|کلاس درس
+服务员|waiter|گارسون، خدمتکار
+手表|wristwatch|ساعت مچی
+跑步|to run|دویدن
+西瓜|watermelon|هندوانه
+晴|sunny|آفتابی
+羊肉|lamb, mutton|گوشت گوسفند
+公共汽车|bus|اتوبوس
+打篮球|to play basketball|بسکتبال بازی کردن

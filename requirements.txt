@@ -1,0 +1,6 @@
+requests
+edge-tts
+pypinyin
+pillow
+arabic-reshaper
+python-bidi
