@@ -1,6 +1,57 @@
+<!-- readme-top -->
+<div align="center">
+
+<img src="docs/banner.svg" alt="Language Teacher Bot — Learn Chinese · German · Russian on Telegram" width="100%">
+
 # Language Teacher Bot — Learn Chinese, German & Russian on Telegram
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE) ![Python 3](https://img.shields.io/badge/python-3-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-bot-26A5E4?logo=telegram&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/reza-em/language-teacher-bot-chinese-german-russian?style=social)](https://github.com/reza-em/language-teacher-bot-chinese-german-russian/stargazers)
+
 > Telegram language-learning bot for Chinese (HSK, pinyin), German and Russian with placement test, spaced repetition, grammar, pronunciation audio and exercises. Persian (Farsi) UI.
+
+**[فارسی](#-فارسی) · [English](#-english) · [Русский](#-русский) · [Deutsch](#-deutsch)**
+
+⭐ **If this project is useful to you, please give it a star** — it helps other people find it. [**Star on GitHub**](https://github.com/reza-em/language-teacher-bot-chinese-german-russian/stargazers) · 🍴 [Fork](https://github.com/reza-em/language-teacher-bot-chinese-german-russian/fork) · 🐛 [Issues](https://github.com/reza-em/language-teacher-bot-chinese-german-russian/issues)
+
+</div>
+
+## ✨ Highlights
+
+- 🎯 **Placement test** (12 questions) and a guided course from zero
+- 🇨🇳 **Chinese**: 156-lesson course, HSK 1–3 vocabulary, pinyin & tones, stroke order images
+- 🇩🇪 **German** (79 lessons) and 🇷🇺 **Russian** (81 lessons) at A1–A2, with their own grammar, alphabet and pronunciation notes
+- 🗂 **Spaced repetition** flashcards (Leitner 1–5 or SM-2) and 17 exercise types with instant correction
+- 🔊 Pronunciation audio (TTS), offline dictionary built from open datasets
+- 👥 **Group mode**: quizzes, word of the day, leaderboard and an optional gentle "teacher" mode
+- 📝 Honest limits: German/Russian content is AI-assisted and not yet reviewed by native speakers (see License section)
+
+## 🎬 Demo
+
+<div align="center">
+<img src="docs/demo.gif" alt="Animated illustrative mockup of a Language Teacher Bot chat" width="320">
+</div>
+
+<div align="center">
+<img src="docs/screenshots.png" alt="Illustrative mockup screenshots of Language Teacher Bot" width="100%">
+</div>
+
+> 🖼 **These are illustrative mockups**, rendered locally from scripted conversations (see [`docs/mockups`](docs/mockups)). They are not real chats and contain no real user data; names, numbers and links are examples.
+
+## 🚀 Quick start
+
+```bash
+git clone https://github.com/reza-em/language-teacher-bot-chinese-german-russian.git && cd language-teacher-bot-chinese-german-russian
+python3 -m venv venv && ./venv/bin/pip install -r requirements.txt
+python3 build_data.py                        # downloads open datasets, builds data/dict.sqlite
+export CHINESE_TELEGRAM_BOT_TOKEN=...        # from @BotFather
+export OWNER_ID=123456789 OWNER_USERNAME=your_username
+./run.sh
+./venv/bin/python test_offline.py
+```
+
+More options, admin panel and platform notes are in the sections below. Tokens are read only from environment variables — never commit them.
+
+---
 
 ## 🌐 فارسی
 
